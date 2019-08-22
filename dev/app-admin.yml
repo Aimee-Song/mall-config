@@ -1,1 +1,3 @@
 app: 123
+server:
+  port: 8030
